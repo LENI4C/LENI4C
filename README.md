@@ -13,19 +13,23 @@ Hi there! 👋 I’m **Leni4c**, a passionate web developer, artist of logic, an
 ---
 
 ### 🛠️ My Toolkit  
-**🖌️ Core Languages**  
-- HTML | CSS | JavaScript *(Foundations of every masterpiece)*  
+#### 🖌️ Core Languages  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-**🎨 Frameworks & Libraries**  
-- React *(Where logic meets art)*  
-- Tailwind CSS *(When I need my style game on point)*  
+#### 🎨 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-**☁️ Platforms**  
-- Firebase *(Keeping my data flowing seamlessly)*  
-- Shopify & WordPress *(Tools of the trade for digital magic)*  
+#### ☁️ Platforms  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Shopify](https://img.shields.io/badge/Shopify-8DB543?style=for-the-badge&logo=shopify&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 
-**🔧 Tools of the Trade**  
-- Git | GitHub *(Keeping order in creative chaos)*  
+#### 🔧 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -43,7 +47,7 @@ I approach every project as an opportunity to turn challenges into elegant, inte
 ---
 
 ### 🌍 Where to Find Me  
-- 🌐 [Portfolio](https://yourportfolio.com) *(Come see my masterpieces)*  
+- 🌐 [Portfolio](https://leni4c.vercel.app) *(Come see my masterpieces)*  
 - 💼 [LinkedIn](https://linkedin.com/in/leni4c) *(Let’s talk ideas and opportunities)*  
 - 🐦 [Twitter](https://twitter.com/leni4c) *(Code musings and more)*  
 
@@ -53,10 +57,4 @@ I approach every project as an opportunity to turn challenges into elegant, inte
 I write code like an artist paints a mural—one thoughtful stroke at a time. Sometimes messy, often challenging, but always rewarding.  
 
 ⭐️ *Drop a star if you feel inspired by the code canvas I’m painting.*  
-
-
-### 🌟 Skills & Tools  
-#### 🖥️ Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=F7DF1E) 
 
